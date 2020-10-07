@@ -1,0 +1,13 @@
+用 Big-O 來表示最多次(概略)的執行次數
+
+3n+1= ? 	O(n)
+3n+3= ? 	O(n)
+50n+5= ?	O(n)
+10n2+5n+1 = ?	O(n2)
+5*2n+n2 = ?	O(2^n)
+
+Big-O 運算
+
+O(4) + O(N) = ? 		O(N)
+O(logN) + O(logN) + O(logN) = ?	O(logN)
+O(N) + O(N2) = ?		O(N2)
